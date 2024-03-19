@@ -60,19 +60,3 @@ body {
   font-weight: 400;
   margin: 16px;
 }
-
-@media only screen and (min-width: 375px) {
-  .frame {
-    width: 25rem;
-    height: 40rem;
-  }
-
-  .card_image {
-    width: 100%;
-    height: 100%;
-  }
-
-  .card_information p {
-    margin: 16;
-  }
-}
